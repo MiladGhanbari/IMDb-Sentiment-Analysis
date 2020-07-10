@@ -3,6 +3,8 @@ This project studies and compares the performance of several machine learning ap
 
 # Instructions:
 
+Libraries Used: Scikit-Learn, NLTK, OS, Numpy, pickle
+
 Directories:
 ****Put train and test files in the same directory as the codes.****
 
@@ -21,4 +23,4 @@ Uses two files: BernoulliNaiveClassifier.py as the algorithm class and NB_main.p
 
 7. Ensemble.py implements the ensemble method by using voting classifier. run for results.
 
-Libraries Used: Scikit-Learn, NLTK, OS, Numpy, pickle
+
