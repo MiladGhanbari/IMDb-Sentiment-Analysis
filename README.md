@@ -3,7 +3,7 @@ This project studies and compares the performance of several machine learning ap
 
 # Instructions:
 
-Libraries Used: Scikit-Learn, NLTK, OS, Numpy, pickle
+Libraries used: Scikit-Learn, NLTK, OS, Numpy, pickle
 
 Directories:
 ****Put train and test files in the same directory as the codes.****
